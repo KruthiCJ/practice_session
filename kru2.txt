@@ -1,2 +1,3 @@
-hey hellooooooo 
-;;;;;;;;;;;;;
+A remote repository is like an online backup of my project.
+Platforms such as GitHub or GitLab make it simple to share code with others. 
+By pushing my files to a remote repository, I can work from anywhere and never lose progress.
